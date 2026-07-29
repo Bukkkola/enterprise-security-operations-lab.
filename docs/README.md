@@ -1,0 +1,3 @@
+# Documentation
+
+This folder contains documentation for each phase of the Enterprise Security Operations Lab.
