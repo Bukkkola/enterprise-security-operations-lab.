@@ -1,1 +1,4 @@
 
+# KQL Queries
+
+This folder contains Kusto Query Language (KQL) queries used for threat hunting and investigations.
