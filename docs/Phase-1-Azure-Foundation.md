@@ -1,7 +1,7 @@
 # Documentation
 
 This folder contains documentation for each phase of the Enterprise Security Operations Lab.
-# Phase 1: Azure Foundation
+# Phase 1: Azure Foundation and SIEM Deployment
 
 The first phase of this project focused on building the Azure infrastructure required to support Microsoft Sentinel and Microsoft Defender XDR. This foundation provides the resources needed to collect, store, and analyze security telemetry before onboarding endpoints.
 
