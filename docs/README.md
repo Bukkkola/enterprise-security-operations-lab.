@@ -21,7 +21,7 @@ An Azure Resource Group was created to organize and manage all resources used th
 
 ### Screenshot
 
-![Azure Resource Group](screenshots/resource-group.jpg)
+![Azure Resource Group](../screenshots/phase-1/resource-group.jpg)
 
 ### What I Learned
 
@@ -44,7 +44,7 @@ A Log Analytics Workspace was created to serve as the central repository for sec
 
 ### Screenshot
 
-![Log Analytics Workspace](screenshots/phase-1/log-analytics-workspace.jpg)
+![Log Analytics Workspace](../screenshots/phase-1/log-analytics-workspace.jpg)
 
 ### What I Learned
 
@@ -67,7 +67,7 @@ Microsoft Sentinel was enabled to provide enterprise SIEM and SOAR capabilities 
 
 ### Screenshot
 
-![Microsoft Sentinel](screenshots/phase-1/microsoft-sentinel-enabled.jpg)
+![Microsoft Sentinel](../screenshots/phase-1/microsoft-sentinel-enabled.jpg)
 
 ### What I Learned
 
