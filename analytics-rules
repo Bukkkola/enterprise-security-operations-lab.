@@ -1,1 +1,4 @@
 
+# Analytics Rules
+
+This folder contains custom Microsoft Sentinel analytics rules used to detect malicious activity.
